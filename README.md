@@ -1,2 +1,2 @@
-# osp
+# osp.github.io
  osp web
